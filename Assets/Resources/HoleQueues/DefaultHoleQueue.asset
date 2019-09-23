@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52a17e79f40be9746956258317a88442, type: 3}
+  m_Name: DefaultHoleQueue
+  m_EditorClassIdentifier: 
+  holes:
+  - sceneBuildIdx: 1
+  - sceneBuildIdx: 2
+  - sceneBuildIdx: 3
+  - sceneBuildIdx: 4
+  - sceneBuildIdx: 5
+  - sceneBuildIdx: 6
